@@ -6,7 +6,7 @@
 /*   By: prambaud <prambaud@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/08 10:14:54 by prambaud          #+#    #+#             */
-/*   Updated: 2025/01/08 10:15:30 by prambaud         ###   ########.fr       */
+/*   Updated: 2025/01/08 10:23:35 by prambaud         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,5 +15,6 @@
 int main(void)
 {
     printf("coucou lucas");
+    printf("coucou lucas2");
     return(0);
 }
